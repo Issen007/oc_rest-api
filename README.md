@@ -49,6 +49,6 @@ An example of how to use convertto-json to format the output
 
 
 ### Links
-[IBM technote, end-point documentation](https://www-01.ibm.com/support/docview.wss?uid=swg21997347)
-[Cristie Blog, older post about the API](https://www.cristie.dk/single-post/2017/09/22/How-to-work-with-the-new-REST-API-for-Operation-Center-713)
-[The SOS filesl, IBM storage blog](https://www.sosfiles.com/blog/2016/1/13/spectrum-protect-rest-api)
+- [IBM technote, end-point documentation](https://www-01.ibm.com/support/docview.wss?uid=swg21997347)
+- [Cristie Blog, older post about the API](https://www.cristie.dk/single-post/2017/09/22/How-to-work-with-the-new-REST-API-for-Operation-Center-713)
+- [The SOS filesl, IBM storage blog](https://www.sosfiles.com/blog/2016/1/13/spectrum-protect-rest-api)
